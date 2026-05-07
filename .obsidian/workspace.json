@@ -11,26 +11,14 @@
             "id": "5322b7ddc2a2b7ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          }
-        ]
-      },
-      {
-        "id": "591036262a7b6a58",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e5f800131313fb26",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Добро пожаловать"
             }
           }
         ]
